@@ -13,17 +13,30 @@
   <div class="col-md-9">
     <div class="shadow-wrapper">
       <div class="tag-box tag-box-v1 box-shadow shadow-effect-2">
-<h3>DMS certification Pvt. Ltd.</h3>
-     <p><strong>DMS certification Pvt. Ltd.</strong> was established in 2016. with a presence in over 30 locations across India&nbsp; and employing more than 60 full-time personnel,DMS  certification Pvt. Ltd. is never very far from its Clients. It is easily recognized by all stakeholders as one of the most competent, ethical &amp; professional service. Being the market leader We offer very comprehensive and diverse range of technical services to our clients. Our Clientele includes some of the Leading corporate houses, Public sector organizations, medium and small scale enterprises.<br />DMS  certification Pvt. Ltd. provides diverse services in Management Systems &ndash; Quality, Environment, Safety, Food, Information Technology, and Social accountability. Training in allied areas like Lead Auditor, Internal Auditor &amp; awareness courses. Third Party Inspection, Product Certification (CE), Automotive Homologation, Six Sigma etc.DMS  certification Pvt. Ltd. is accredited with UKAF &nbsp;for Management System Certifications and Personnel Certifications accredited with QST(Quantas system Training &amp; Personnel Certifications Ltd., Scotland) and approved by IPC.<br /> <br /> <strong>Why DMS  certification pvt ltd.?</strong></p>
+<h3>Divine Management Services</h3>
+     <p> We are enlisted amongst the top-most service provider offering ISO Certification Services, to provide full convenience and avoid all the annoying procedures of certifying and registering your brand and company.
+
+Divine Management Services (DMS) is a provider of consistent, competent & confidential services for ISO 9001 (QMS), ISO 27001 (ISMS), ISO13485 (Medical Devices), ISO 14001 (EMS), ISO 45001 (HSMS) , ISO 22000 (FSMS), Trade Mark & other branding services.
+Divine Management has assisted in implementing various Management Systems which meet the requirements of ISO Standards. This assistance consists of development of ISO related documents such as Quality Policy, procedures, manual & records/formats.
+<br/>
+<h3>Our Awesome Services</h3>
+<strong>Company Registration :</strong>
 <ul style="padding-left:2%;">
-<li>DMS  India use only experienced auditors who are trained to carry out assessment with minimal disruption of work.</li>
-<li>DMS  certification is a quick, flexible and professionally managed company.</li>
-<li>DMS  certification is not interested in just Winning Contracts with its client but seeks long-term relationship with its clients.</li>
-<li>DMS  certification will be both courteous and sensitive to your staff at all times.DMS  India fully understand the stress that people experience during implementation.</li>
-<li>DMS  certification believes in quality and not quantity. </li>
+<li>Registering a company is one of the most popular legal ways of starting a business in India, and should be chosen by anyone looking to build a scalable business.
+</li>
 </ul>
-<p><strong>Our Assessors/Auditors</strong><br />DMS  certification &nbsp;Assessors/Lead auditors are qualified professionals having vast experience assessment of ISO Standards in the manufacturing and the service industries as well as in the IT Industry.DMS  certification achieved this by working on fundamentals of ISO and addressing the core issues of the system.</p>
-      </div>
+<strong>ISO Standards :</strong>
+<li>Optimizing on our team of industry experts, sector specific knowledge and with the rudimentary understanding of our clients' requirements we offer customized solutions.
+.</li>
+</ul>
+<strong>Other Certification</strong><br />We have been successfully supporting business and companies to achieve various certifications applicable in different countries needed for exports.
+      <ol style="padding-left:2%; list-style-type:">
+	    <li><i style='color:#000'>&#8226;</i> To Provide high quality Consultancy.</li>
+	    <li><i style='color:#000'>&#8226;</i> Keeping customer satisfaction.</li>
+	    <li><i style='color:#000'>&#8226;</i> To provide best quality solutions.</li>
+	    <li><i style='color:#000'>&#8226;</i> Our focus on continually improving QMS is means of achienving organizational excellence and customer trust..</li>
+	  </ol>
+	  </div>
     </div>
 	</div>
 	
@@ -39,32 +52,91 @@
             <div>
               <h3 style="background-color:#670503; color:#ffc289;"><center>Enquiry Now</center></h3>
             </div>
-            <form method="post" data-form-title="CONTACT US">
-              <input type="hidden" data-form-email="true">
+            <form method="post" action="#" data-form-title="Enquiry">
               <div class="form-group">
-                <input type="text" class="form-control" name="name" required="" placeholder="Name" data-form-field="Name">
+                <input type="text" class="form-control" name="name" required="" placeholder="Name" data-form-field="Name" required="true">
               </div>
               <div class="form-group">
-                <input type="number" class="form-control" name="mobile" required="" placeholder="Mobile" data-form-field="Mobile">
+                <input type="email" class="form-control" name="email" required="" placeholder="Email" data-form-field="Email" required="true">
               </div>
               <div class="form-group">
-                <select name="service" class="form-control">
-				  <option value="0">--Select Any--</option>
-				  <option value="1">1</option>
-				  <option value="2">2</option>
-				  <option value="3">3</option>
-				  <option value="4">4</option>
+                <input type="number" class="form-control" name="mobile" required="" placeholder="Mobile" data-form-field="Mobile" pattern="([0-9]{1,10})" required="true">
+              </div>
+              <div class="form-group">
+                <select name="service" class="form-control" required="true">
+				   <option value="0">--Select Section--</option>
+  <option value="ISO 9001:2008">ISO 9001:2008</option>
+  <option value="ISO 14001:2004">ISO 14001:2004</option>
+  <option value="OHSAS 18001:2007">OHSAS 18001:2007</option>
+  <option value="ISO 20000-1:2011">ISO 20000-1:2011</option>
+  <option value="ISO 22000:2005">ISO 22000:2005</option>
+  <option value="ISO 27001:2005">ISO 27001:2005</option>
+  <option value="ISO 13485:2003">ISO 13485:2003</option>
+  <option value="Food">Food</option>
+  <option value="Electrical &amp; Electronics">Electrical &amp; Electronics</option>
+  <option value="Mechanical">Mechanical</option>
+  <option value="Raw material">Raw material</option>
+  <option value="Mill &amp; Pipelines">Mill &amp; Pipelines</option>
+  <option value="Refineries, Chemicals and petrochemicals, Fertilizers">Refineries, Chemicals and petrochemicals, Fertilizers</option>
+  <option value="Machinery">Machinery</option>
+  <option value="Pre Shipment">Pre Shipment</option>
+  <option value="construction &amp; building materials">construction &amp; building materials</option>
+  <option value="Oil and gas, power generation and distribution">Oil and gas, power generation and distribution</option>
+  <option value="Telecommunication">Telecommunication</option>
+  <option value="CE Marking">CE Marking</option>
+  <option value="GOST_R">GOST_R</option>
+  <option value="ROHS">ROHS</option>
+  <option value="WRAP">WRAP</option>
+  <option value="SEDEX">SEDEX</option>
+  <option value="C-TPAT">C-TPAT</option>
+  <option value="GNP">GNP</option>
+  <option value="Global GAP">Global GAP</option>
+  <option value="HACCP">HACCP</option>
 				</select>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" placeholder="Message" rows="7" data-form-field="Message"></textarea>
+                <textarea class="form-control" name="message" placeholder="Message" rows="7" data-form-field="Message" required="true"></textarea>
               </div>
               <div>
-                <input type="submit" class="form-control btn-danger" value="SUBMIT">
+                <input type="submit" name="submit" class="form-control btn-danger" value="SUBMIT">
               </div>
             </form>
+              <?php
+                if(isset($_POST['submit'])){
+                   $name = $_POST['name'];
+                   $email = $_POST['email'];
+                   $mobile = $_POST['mobile'];
+                   $service = $_POST['service'];
+                   $message = $_POST['message'];
+                   $data = array("name"=>$name,"email"=>$email,"mobile"=>$mobile,
+                                 "service"=>$service,"message"=>$message);
+                   $date = date('Y-m-d');
+                  $headers = "MIME-Version: 1.0" . "\r\n";
+                  $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+                  $emsg = " <html>
+                  <head>
+                    </head>
+                    <body>
+                    <center><h3>Congratulations!!!</h3></center><br>
+                    <p>
+                    Dear Admin,   
+                    Congratulation, you Get A new Enquiry in user name is ".$name." In a date ".$date." user is requred as a service name ".$service." and user mobile no ".$mobile." and specific message is ".$message."
+                     <br>
+                    <br/><br/>
+                    Once again thank you, if you have any queries please contact us +919113415059 , +918602092757
+                    </p>      
+                    </body>
+                    </html>";
+                  //sending final confrimation mail after confirming user email id
+                    //some header files...  
+         $headers .= 'From: <divineisocert@gmail.com>' . "\r\n";
+         $headers .= 'Bcc: ashish.preeminence@gmail.com' . "\r\n";
+         $chkMail =  mail($email,'Customer Enquiry',$emsg,$headers);
+         if(!$chkMail){ echo "<script>alert('Enquiry, email not send')</script>"; 
+                } }
+             ?>
           </div>
-		  </div>
+		      </div>
         </div>
       </div>
     </div>
@@ -82,13 +154,19 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img alt="iso certification for Medical devices " src="ftheme/assets/img/main/9N.jpg" class="img-responsive">
+                            <img alt="iso certification for Medical devices " src="ftheme/assets/img/main/medical2.jpg" class="img-responsive">
                         </div>
                         <a href="" class="btn-more hover-effect">read more +</a>                   
                     </div>
                     <div class="caption">
-                        <h3><a href="" class="hover-effect">Iso 9001: 2008 Certification</a></h3>
-                        <p>The ISO 9001: 2008 Certification aims at providing a global standard that marks out quality and trust. ISO 9001: 2008 Certification is a quality management system standard and is applicable to all types of organizations i.e. Industrial, Service and Trading. An ISO 9001: 2008 Certification indicates the organization's process to quality management</p>
+                        <h3><a href="" class="hover-effect">ISO 13485: 2003 Certification</a></h3>
+                        <p>Certification represents the requirements for a comprehensive management system for the design and manufacture of medical devices.
+						All requirements of this International Standard are specific to organizations providing medical devices, 
+						regardless of the type or size of the organization. ISO 13485: 2003 Certification supersedes earlier documents 
+						such as EN 46001 and EN 46002 (both 1997), the ISO 13485 published in 1996 and ISO 13488 (1996). ISO 13485:2003 
+						is a quality system standard designed specifically for medical device companies. <!--The standard is applied by most 
+						Class II and III (plus Class IV in Canada) medical device manufacturers to meet the quality system requirements
+						of Europe, Canada, Australia, Japan and other parts of the world.--></p>
                     </div>
                 </div>
           
@@ -97,13 +175,18 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img alt="iso certification IMS" src="ftheme/assets/img/main/2N.jpg" class="img-responsive">
+                            <img alt="iso certification IMS" src="ftheme/assets/img/main/20082.png" class="img-responsive">
                         </div>
                         <a href="" class="btn-more hover-effect">read more +</a>                   
                     </div>
                     <div class="caption">
-                        <h3><a href="" class="hover-effect">ISO 22000: 2005 FSMS Certification</a></h3>
-                        <p>Our organization is instrumental in providing the most efficient solutions for obtaining ISO 22000: 2005 Certification. This certification is essential for the identification and management of food safety.This will ensure that the customers are getting unadulterated food. Our services are reasonably charged as per the market. </p>
+                        <h3><a href="" class="hover-effect">ISO 9001:2008 FSMS Certification</a></h3>
+                        <p>Compliance with ISO 9001:2008 is often seen as the first step in achieving compliance with ISO 13485:2003, 
+						which is based on the ISO 9001:2008 process model, suggests that the application and management of a system of 
+						processes is an effective way to ensure good quality management. All requirements of this International Standard
+						are specific to organizations providing Medical Devices, 
+						regardless of the type or size of the organization. ISO 13485 certification is not accepted by the US FDA, although 
+						it shares many of the same characteristics as FDA Good Manufacturing Practice. </p>
                     </div>
                 </div>
             </div>
@@ -111,13 +194,18 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img alt="iso certification for Medical devices " src="ftheme/assets/img/main/14N.jpg" class="img-responsive">
+                            <img alt="iso certification for Medical devices " src="ftheme/assets/img/main/20152.png" class="img-responsive">
                         </div>
                         <a href="" class="btn-more hover-effect">read more +</a>                   
                     </div>
                     <div class="caption">
-                        <h3><a href="" class="hover-effect">ISO 14001 : 2004 EMS Certification</a></h3>
-                        <p>We are a renowned organization rendering dependable certification approval solutions to the clients. With us, you will get ISO 14001: 2004 EMS Certifications conveniently.Moreover, many clients wish to shake hands with only ISO certified organizations as it helps them gain a competent position in the market. Usually the organizations tend </p>
+                        <h3><a href="" class="hover-effect">ISO 13485: 2003 EMS Certification</a></h3>
+                        <p>ISO 13485 in part designed to produce a management system that facilitates compliance to the requirements
+						of customers and various global regulators. While being certified to ISO13485 does not fulfill the requirements
+						of either the FDA or foreign regulators, the certification aligns an organization’s management system to the 
+						requirements of the FDA’s Quality System Regulation (QSR)
+						requirements as well as many other regulatory requirements found throughout the world.The standard is applied by most 
+						Class II and III (plus Class IV in Canada) medical device manufacturers. </p>
                     </div>
                 </div>
             </div>
@@ -125,14 +213,19 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img alt="iso certification body acceleration" src="ftheme/assets/img/main/13N.jpg" class="img-responsive">
+                            <img alt="iso certification body acceleration" src="ftheme/assets/img/main/medical2.jpg" class="img-responsive">
                         </div>
                         <a href="" class="btn-more hover-effect">read more +</a>                  
                     </div>
                     <div class="caption">
                         <h3><a href="" class="hover-effect">
-ISO 13485 : 2003 DMS Certification</a></h3>
-                        <p>If you wish to obtain an ISO 13485: 2003 Certification for your company, then our qualified professionals will help you in acquiring it. The ISO 13485: 2003 Certification is a quality system certification that is essential for different industries like designing, manufacturing, developing, medical devices, and many more.</p>
+                             ISO 13485 : 2003 FDA Certification</a></h3>
+                        <p> ISO13485 certification serves to create a management system that can be thought of 
+						as a framework on which to build compliance to various regulatory and customer requirements. 
+						The ISO 13485 standard supplements ISO 9001 and has many of the same requirements. However, 
+						there are additional requirements for process control, design control, retention of records, accountability, 
+						traceability, customer satisfaction and more. Individual countries such as Canada and Japan have additional 
+						requirements necessary to meet their specific regulations.</p>
                     </div>
                 </div>
             </div>
