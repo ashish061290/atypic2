@@ -84,8 +84,6 @@
     </form>
 <script src="../code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="ftheme/assets/js/jquery.newsTicker.js"></script>
-   
-    <script type="text/javascript" src="ftheme/assets/plugins/jquery-1.10.2.min.js"></script> 
     <script type="text/javascript" src="ftheme/assets/plugins/jquery-migrate-1.2.1.min.js"></script> 
     <script type="text/javascript" src="ftheme/assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
     <!-- JS Implementing Plugins --> 
