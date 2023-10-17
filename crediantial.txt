@@ -1,0 +1,35 @@
+url: https://djpranav.com/cpanel
+id : djpranav
+password : Crxf.PM}
+
+url:https://www.kangarootraininginstitute.com.au/
+                                    "name": "kangaroo",
+		"host": "ftp.kangarootraininginstitute.com.au",
+		"port": 21,
+		"type": "ftp",
+		"username": "u235495377.kangaroo",
+		"password": "K@ng@r00",
+		"path": "/",
+		"autosave": true,
+		"confirm": true
+
+email detail 
+https://antops.com:2096/
+username: ashish@antops.com
+Password: ashish@ntops2023
+
+ftp : username: djpranav_ashish@djpranav.com
+       host: ftp.djpranav.com
+      pass: Ashish@98065
+      port: 21
+
+
+
+template : https://preview.codecanyon.net/item/active-ecommerce-cms/full_screen_preview/23471405?_ga=2.89318483.998373363.1697004213-72144225.1694058433&_gac=1.94979566.1695964472.CjwKCAjwyNSoBhA9EiwA5aYlb-o7R7YYj_CqVynp4oXtxzgE-2tCLYah_RuRJWRVd0xUCzddzBMHLxoCQaYQAvD_BwE
+
+
+Points:-
+-Earning (photo/video and story) calculation & page creation / payment display and data display on dashboard. Dashboard is loading very slow and User withdrawal needs to be approved on the backend. Notification display and history and email alert. (no payment gateway needed).
+-Photo & single page showing blank issue & tag page only data display related to tag.
+-Slider break while loading(home/video/video details/ stories and details pageant all photos page).
+-Social media register

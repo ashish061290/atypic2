@@ -1,0 +1,143 @@
+public_html/resources/views
+public_html/resources/views
+
+https://www.entertainmentbugs.com/earnings
+
+iska 3 page
+
+yeh path me: public_html/resources/views/earnings
+
+https://www.entertainmentbugs.com/backend/admin/
+rohit.09012@gmail.com
+1234567
+
+similar layout: earning ka
+https://entertainmentbugs.com/backend/admin/artistPremium/artistPremiumListing
+
+public_html/app/Http/Controllers
+
+yeh wala sirf url me dhal dena:
+https://www.entertainmentbugs.com/earnings/rewards
+
+bank details save:
+https://www.entertainmentbugs.com/payment-withdraw
+
+yda4ea0377rd
+
+TdO8kfYh2!6u
+
+https://www.entertainmentbugs.com:2083/
+
+backend ka page ka naam:
+payment withdrawal request rahega
+
+
+
+
+Laravel Project: trisha2023@gmail.com
+12345678
+Laravel Project: samanta@gmail.com
+12345678
+
+
+
+Laravel Project: new page url should be like this:
+https://www.entertainmentbugs.com/earnings/videos
+https://www.entertainmentbugs.com/earnings/photos
+https://www.entertainmentbugs.com/earnings/earningstories
+stories route already created so i change name route
+
+
+
+UploadPhotos::where('user_id', $user->id)
+            ->withCount(['unpaid_reaction', 'total_reaction', 'get_likes', 'get_dislikes'])
+            ->paginate(5);
+
+public function unpaid_reaction(){
+		return $this->hasMany(PhotoLikes::class, 'photo_id')->where('is_paid', '0')->whereRaw("(liked='1' || disliked='1')");
+	}
+
+	public function total_reaction(){
+		return $this->hasMany(PhotoLikes::class, 'photo_id')->whereRaw("(liked='1' || disliked='1')");
+	}
+
+public function get_likes() {
+		return $this->hasMany(PhotoLikes::class, 'photo_id')->where('liked', '1');
+	}
+	public function get_dislikes() {
+		return $this->hasMany(PhotoLikes::class, 'photo_id')->where('disliked', '1');
+	}
+
+getUnpaidReactionEarning
+
+
+
+	public static function getUnpaidReactionEarning($unpaidReactionCount) {
+		return $unpaidReactionCount * self::EARNING_PER_REACTION;
+	}
+public function getUnpaidReactionEarning() {
+		return PhotoHelper::getUnpaidReactionEarning($this->unpaid_reaction_count);
+	}
+
+Route::any('single-photo/{id}', 'PhotosController@single_photo')->name('single-photo');
+
+	const DEFAULT_DIR = "/public/uploads/photo/";
+	const DEFAULT_IMAGE = "/public/img/story_thumb.jpg";
+
+	public static function getImageURL($filename, $defaultOnEmpty = false) {
+		if (!empty($filename) && File::exists(self::DEFAULT_DIR.$filename)) {
+			return self::DEFAULT_DIR.$filename;
+		}
+
+		return $defaultOnEmpty ? asset(self::DEFAULT_IMAGE) : null;
+	}
+
+
+
+
+
+Rohit Laravel Project: https://www.entertainmentbugs.com/payment-withdraw
+available and bank details edit and save
+Rohit Laravel Project: bank details and date wise data:
+https://entertainmentbugs.com/backend/admin/showpayouts
+Rohit Laravel Project: slow load :
+href="https://www.entertainmentbugs.com/dashboard"
+Rohit Laravel Project: video photo and stories page is loading too slow "Important resolve this" and stories page coding issue
+
+
+
+
+
+	@if(!request()->query('editbankdetails') && isset($userpaymentdetils->paymentmethods[0]->bankdetil))
+						<div id="bank-block-details">
+							<h4 style="margin-bottom: 12px;">Bank Details <a type="button" href="?editbankdetails=1"><i class="fa fa-edit"></i> Edit</a></h4>
+							<p>Note: Please check you bank details we will send money on your given account number</p>
+							<div style="clear:both; overflow:"></div>
+							<div id="bank-details">
+								<p><span>Bank Name: </span> {{$userpaymentdetils->paymentmethods[0]->bankdetil->bank_name}}</p>
+								<p><span>Account Number: </span>{{$userpaymentdetils->paymentmethods[0]->bankdetil->account_no}}</p>
+								<p><span>IFCS Code: </span> {{$userpaymentdetils->paymentmethods[0]->bankdetil->ifsc_code}}</p>
+								<p><span>State: </span> {{$userpaymentdetils->paymentmethods[0]->bankdetil->states->name}}</p>
+								<p><span>City: </span> {{$userpaymentdetils->paymentmethods[0]->bankdetil->city}}</p>
+							</div>
+						</div>
+
+
+
+photos/load
+
+api/promoted-post/ad
+
+
+
+
+
+
+-photo page me thumbnail show ho rha hai ?
+-payment karne k badh available remove ho rha hai and status me pending or withdraw ho rha hai  ?
+-shoty page display ho rha hai ????->done
+-video page me earning count ho rha hai ?
+
+
+-page load too slow
+-backend me add button and phone number in popup
