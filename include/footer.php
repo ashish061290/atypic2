@@ -83,7 +83,7 @@
     </div>
     </form>
     <script src="ftheme/assets/js/jquery.newsTicker.js"></script>
-    <script type="text/javascript" src="ftheme/assets/plugins/jquery-migrate-1.2.1.min.js"></script> 
+    <script type="text/javascript" src="ftheme/assets/plugins/jquery-3.7.1.js"></script> 
     <script type="text/javascript" src="ftheme/assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
     <!-- JS Implementing Plugins --> 
     <script type="text/javascript" src="ftheme/assets/plugins/back-to-top.js"></script> 
